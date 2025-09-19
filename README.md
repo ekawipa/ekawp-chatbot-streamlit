@@ -1,6 +1,6 @@
 ♥️ Teman Cerita Saja
-Chatbot Untuk Curhat Bagi Orang Orang Yang Introvert
-[ Aplikasi chatbot sederhana berbasis web yang dibuat dengan Python, Streamlit, dan ditenagai oleh model gemini-1.5-flash dari Google. Aplikasi ini memungkinkan Anda untuk berinteraksi dengan AI secara real-time langsung dari browser Anda. ]
+<br> Chatbot Untuk Curhat Bagi Orang Orang Yang Introvert 
+<br> [ Aplikasi chatbot sederhana berbasis web yang dibuat dengan Python, Streamlit, dan ditenagai oleh model gemini-1.5-flash dari Google. Aplikasi ini memungkinkan Anda untuk berinteraksi dengan AI secara real-time langsung dari browser Anda. ]
 
 ✨ Fitur Utama
 
