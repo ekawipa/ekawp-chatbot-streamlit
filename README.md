@@ -1,6 +1,7 @@
 ♥️ Teman Cerita Saja
 <br> Chatbot Untuk Curhat Bagi Orang Orang Yang Introvert 
-<br> [ Aplikasi chatbot sederhana berbasis web yang dibuat dengan Python, Streamlit, dan ditenagai oleh model gemini-1.5-flash dari Google. Aplikasi ini memungkinkan Anda untuk berinteraksi dengan AI secara real-time langsung dari browser Anda. ]
+<br> [ Aplikasi chatbot sederhana berbasis web yang dibuat dengan Python, Streamlit, dan ditenagai oleh model gemini-flash dari Google.]
+<br> [ Aplikasi ini memungkinkan Anda untuk berinteraksi dengan AI secara real-time langsung dari browser Anda. ]
 
 ✨ Fitur Utama
 
@@ -14,6 +15,7 @@
 
     Reset Percakapan: Mulai ulang percakapan kapan saja dengan satu klik tombol.
 
+
 🚀 Cara Menjalankan Aplikasi
 
 Ikuti langkah-langkah berikut untuk menjalankan chatbot ini di komputer lokal Anda.
@@ -25,8 +27,7 @@ Pastikan Anda telah menginstal Python 3.9 atau versi yang lebih baru. Anda juga 
     Jika Anda belum punya kunci API, Anda bisa mendapatkannya di Google AI Studio.
 
 2. Instalasi
-
-    Clone repositori ini:
+Clone repositori ini:
 ```
 git clone https://github.com/NAMA_USER_ANDA/NAMA_REPO_ANDA.git
 cd NAMA_REPO_ANDA
