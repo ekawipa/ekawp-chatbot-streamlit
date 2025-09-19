@@ -5,7 +5,7 @@ from google import genai  # For interacting with the Google Gemini API
 # --- 1. Page Configuration and Title ---
 
 # Set the title and a caption for the web page
-st.title("💬 Gemini Chatbot")
+st.title("💬 Eka Chatbot")
 st.caption("A simple and friendly chat using Google's Gemini Flash model")
 
 # --- 2. Sidebar for Settings ---
